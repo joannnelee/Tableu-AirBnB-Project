@@ -1,8 +1,8 @@
-# Tableu AirBnB Project
+# Tableau AirBnB Project
 
 ### Project Overview 
 
-In this project, a dashboard will be created showing visualizations for a client interested in listing a property in Seattle who wants further information on current listings. 
+In this project, a dashboard will be created showing visualizations for a client interested in listing an AirBnB property in Seattle who wants further information on the current listings in the area. 
 
 ### Data Sources 
 
@@ -10,11 +10,11 @@ The data has been extracted from an Excel Spreadsheet containing 3 datasets: Lis
 
 ### Tools
 
-Tableu - To join the tables and create visualizations.
+Tableau - To join the tables and create visualizations.
 
 ### Dashboard
 
-The completed dashboard is shown below.
+The completed dashboard is shown below and can also be accessed [here.](https://public.tableau.com/app/profile/joanne.lee6979/viz/AirBnBFullProject_17253550455810/Dashboard1?publish=yes) 
 
 ![Dashboard 1](https://github.com/user-attachments/assets/bb52a83a-995c-43b9-bae3-afd656eef8b4)
 
@@ -31,9 +31,13 @@ This visualization gives insights into the revenue generated each week in 2016. 
 Two visualizations are shown in the dashboard, a bar chart and a map. These show the average price of a listing based on their zip code. This is useful to the client who may be interested in seeing which locations will sell for the highest price. The bar chart is used to make it easy to see which zip codes sell for the highest prices and the map indicates the geographical location of the listings without needing to look up the zip code
 
 ### Results/Findings
-1. As bedroom number increases, price increases and number of listings decreases - more bedrooms means you can sell for a higher price but there is less demand for more bedrooms.
-2. The most revenue is generates in May/June and December - this is likely due to summer and Christmas holidays where more people are likely to go on holidays and rent accomodation.
-3. 98119 is where the most listings are, this is likely since this area is close to the city centre where most people are likely to visit. 
+1. As bedroom number increases, price increases and the number of listings decreases - more bedrooms mean you can sell for a higher price but there is less demand for more bedrooms.
+2. The most revenue is generated in May/June and December - this is likely due to the summer and Christmas holidays when more people are likely to go on holidays and rent accommodation.
+3. When looking at the zip codes with the highest prices, urban, and city areas have the highest prices for listings. These areas tend to be more popular for people to visit as there is lots to do for visitors, therefore as there is more demand, listers can list their properties for higher prices.
+
+### Limitations
+1. Null values were excluded from the visualizations which could impact the accuracy of results.
+2. The visualizations are based on 2016 data which may be outdated and therefore less accurate. 
 
 ### References
 
